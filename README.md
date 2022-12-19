@@ -18,7 +18,6 @@ Trabalho final do módulo de Programação Web II 😊<br>
 <h2>💻 Sobre o trabalho </h2>
 
 Vamos criar um ECommerce! Uniremos tudo o que aprendemos nesta incrível jornada de aprendizado.<br>
-<br>
 - Desenvolva uma CRUD de produtos;<br>
 - Desenvolva um cadastro de cliente (criptografe a senha);<br>
 - Crie a função de carrinho de compras, aonde o cliente envia quais produtos quer comprar<br>
