@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">
 	✏️ ECommerceApi-ProgramacaoWebII
 </h1>
@@ -26,8 +23,3 @@ Vamos criar um ECommerce! Uniremos tudo o que aprendemos nesta incrível jornada
 - Desenvolva um cadastro de cliente (criptografe a senha);<br>
 - Crie a função de carrinho de compras, aonde o cliente envia quais produtos quer comprar<br>
 e a quantidade. Além de salvar os dados da compra, retorna os produtos comprados e o valor total;<br>
-
-
-<p style="font-size:6">
-esse repositório será atualizado para melhorar a organização e features<br>
-</p>
