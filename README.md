@@ -1,5 +1,5 @@
 <h1 align="center">
-	✏️ ECommerceApi-ProgramacaoWebII
+	✏️ ECommerceApi - Programação Web II
 </h1>
 
 <p align="center"><br>
